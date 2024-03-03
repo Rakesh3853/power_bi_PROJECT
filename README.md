@@ -1,0 +1,1 @@
+File contains the dashboard created by me for the e-commerce website data in power bi. here i have considered the different KPI's for the dashboard creation so that they can provide the better insights abput the sales of the product. and people from the organisation can take the better decision using the Dashboard.
